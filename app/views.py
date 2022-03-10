@@ -24,5 +24,10 @@ def jishnu(request):
 def maria(request):
     return render(request,'maria.html')
 
+def jishnu11(request):
+    return render(request,'jishnu11.html')
+
+
+
 
 
